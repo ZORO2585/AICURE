@@ -1,0 +1,14 @@
+{
+"leaf_blight": {
+"name": "Leaf Blight",
+"treatment": "Spray with copper fungicide or neem oil."
+},
+"foot_and_mouth": {
+"name": "Foot and Mouth Disease",
+"treatment": "Isolate affected animals, vaccinate herd, disinfect sheds."
+},
+"healthy": {
+"name": "Healthy",
+"treatment": "No treatment required. Maintain regular care."
+}
+}
